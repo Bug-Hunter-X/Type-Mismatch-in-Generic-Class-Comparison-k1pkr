@@ -1,0 +1,1 @@
+This code demonstrates a common error in Scala when dealing with generic classes and type parameters. The `compare` method is designed to compare two instances of `MyClass`, but it fails to account for the possibility of different type parameters.  The solution demonstrates a correct and robust way to handle comparisons in generic classes.
